@@ -1,0 +1,11 @@
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\bin\Debug\netcoreapp3.0\Movie List - Lab 10.exe
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\bin\Debug\netcoreapp3.0\Movie List - Lab 10.deps.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\bin\Debug\netcoreapp3.0\Movie List - Lab 10.runtimeconfig.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\bin\Debug\netcoreapp3.0\Movie List - Lab 10.runtimeconfig.dev.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\bin\Debug\netcoreapp3.0\Movie List - Lab 10.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\bin\Debug\netcoreapp3.0\Movie List - Lab 10.pdb
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\obj\Debug\netcoreapp3.0\Movie List - Lab 10.csprojAssemblyReference.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\obj\Debug\netcoreapp3.0\Movie List - Lab 10.AssemblyInfoInputs.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\obj\Debug\netcoreapp3.0\Movie List - Lab 10.AssemblyInfo.cs
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\obj\Debug\netcoreapp3.0\Movie List - Lab 10.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week2\Movie List - Lab 10\Movie List - Lab 10\obj\Debug\netcoreapp3.0\Movie List - Lab 10.pdb
